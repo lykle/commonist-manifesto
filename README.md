@@ -1,6 +1,6 @@
 # The Commonist* Manifesto
 [Used by all, owned by none](http://commonistmanifesto.org)
-##The Commons
+## The Commons
 The Commons is where human civilisation, the earth and technology are balanced into a mutually beneficial ecosystem for all. It is where Humans, Gaia and Technium find a balance that supports the flow of value in all forms, for the benefit of all.
 ### All participants are recognized and represented
 Be they human, machine or nature, all participants in a system are recognized. No matter if they decide to add their energy, or are mined for their resources, they shall be seen and compensated or replenished.
