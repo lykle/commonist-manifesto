@@ -20,3 +20,6 @@ All participants have voice and exit at their disposal to support any system. An
 
 
 Note: after writing this, i looked up commonistmanifesto as a url. The .com has been registered in wo16 bij John Capano, Ad Executive. [From a brief Google search, I could not discover any similarities with what I have written above.](https://nl.godaddy.com/whois/results.aspx?domain=commonistmanifesto.com&recaptchaResponse=03AMGVjXi_sYL8KDH2fPUlMxSITXAvTeFav3atSWC7KCRECywcQ_Y-mjFKzTtUDFexT9VTl5axD21Sgv-mA-LZw_tlUw2Aj2hpxr_WEgoNMtkhPU5XxaOU3Y-2rlGcwq_d8yZo7ROKf_tIHRIzJENBOzuSa23hFO4kZzBwArE0QZjm9xd5BMcMHf-VhW7B-x1FXetZHaYbWyom7aUflU0y3gbC0NV7bE1XJvrVwRxHhFy1bhaVuS3iUhvPSYJlhofgsGaiq9GcziIoSupygJixezgFkneYi0g8Jg)
+
+#### License
+[A license?](https://github.com/lykle/commonist-manifesto/blob/master/LICENSE) Yeah, just to make sure no third party takes this content and runs away with, contrary to the Commonist ways. It's [CC-BY-SA-4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/), by the way.
